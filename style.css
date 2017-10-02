@@ -1,0 +1,25 @@
+.forma_svjazy {
+  width: 300px;
+  height: 100px;
+  background-color: gray;
+  border-radius: 10px;
+}
+
+.forma_svjazy_legend {
+  
+  background-color: gray;
+  border-radius: 6px;
+}
+
+.orange_text {
+  color: orange;
+}
+.forma_svjazy_name_label {
+  
+}
+.forma_svjazy_send_submit {
+  color: gray;
+  border-radius: 5px;
+  margin-top: 10px;
+  background-color: orange;
+}
